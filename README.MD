@@ -46,9 +46,9 @@
 
 我准备了两个版本的文本，一个是 Markdown 格式，另一个是 PDF 格式。
 
-[Markdown版](Open Source License In Depth.md)
+[Markdown 版](Open-Source-License-In-Depth.md)
 
-[PDF 版](Open Source License In Depth.pdf)
+[PDF 版](Open-Source-License-In-Depth.pdf)
 
 ## 协议
 
