@@ -697,7 +697,7 @@ PERFORMANCE OF THIS SOFTWARE.
 
 [协议原文](https://unlicense.org/)
 
-The Unlicense 声明其将其授权的作品贡献至**[公有领域](https://en.wikipedia.org/wiki/Public_domain)**，这意味着**在法律允许的可能下放弃其包括著作权在内的一切权利**。
+The Unlicense 声明其将其授权的作品贡献至[**公有领域**](https://en.wikipedia.org/wiki/Public_domain)，这意味着**在法律允许的可能下放弃其包括著作权在内的一切权利**。
 
 ##### 条款简述
 
