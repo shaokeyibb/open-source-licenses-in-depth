@@ -393,6 +393,7 @@ MPL2.0 许可证许可任何人使用，修改和分发程序及其源代码，�
 ##### 兼容性
 
 MPL 2.0 协议理论上兼容所有协议，但当您要合并的许可证与 MPL 2.0 协议中定义的“次要许可证”（见上）不兼容时，您应当再分发源代码时提供一个额外的声明，以证明您使用了不兼容的许可证，这些额外声明也可以在许可证原文底部找到：
+
 ```
 This Source Code Form is “Incompatible With Secondary Licenses”, as defined by the Mozilla Public License, v. 2.0.
 ```
@@ -573,7 +574,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ##### BSD 3-Clause Clear License
 
-BSD 三段清晰许可证（又称 Clear BSD）基于 Modified BSD 进一步微调了条款，简化了一部分内容，删除了保留所有权利（All rights reserved）提示，并在免责声明部分添加了一个专利条款，**明确声明**其不授予专利权：
+BSD 三段清晰许可证（又称 Clear BSD）基于 Modified BSD 进一步微调了条款，简化了一部分内容，在免责声明部分添加了一个专利条款，**明确声明**其不授予专利权：
 
 ```
 The Clear BSD License
@@ -697,7 +698,7 @@ PERFORMANCE OF THIS SOFTWARE.
 
 [协议原文](https://unlicense.org/)
 
-The Unlicense 声明其将其授权的作品贡献至**[公有领域](https://en.wikipedia.org/wiki/Public_domain)**，这意味着**在法律允许的可能下放弃其包括著作权在内的一切权利**。
+The Unlicense 声明其将其授权的作品贡献至[**公有领域**](https://en.wikipedia.org/wiki/Public_domain)，这意味着**在法律允许的可能下放弃其包括著作权在内的一切权利**。
 
 ##### 条款简述
 
@@ -810,4 +811,4 @@ CC 许可证有多个版本和多个变种。3.0 版本是一个早期版本，�
 [^6]: [Various Licenses and Comments about Them - GNU Project - Free Software Foundation](https://www.gnu.org/licenses/license-list.html#ccbysa)
 [^7]: [Various Licenses and Comments about Them - GNU Project - Free Software Foundation](https://www.gnu.org/licenses/license-list.html#Expat)
 [^8]: [Various Licenses and Comments about Them - GNU Project - Free Software Foundation](https://www.gnu.org/licenses/license-list.html#OriginalBSD)
-[^9]:[Various Licenses and Comments about Them - GNU Project - Free Software Foundation](https://www.gnu.org/licenses/license-list.html#WTFPL)
+[^9]: [Various Licenses and Comments about Them - GNU Project - Free Software Foundation](https://www.gnu.org/licenses/license-list.html#WTFPL)
