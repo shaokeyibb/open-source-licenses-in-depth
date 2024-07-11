@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshaokeyibb%2Fopen-source-licenses-in-depth&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-原文发布于我的博客，[欢迎围观](https://my.minecraft.kim/tech/2022/08/23/post-744/)
+原文发布于我的博客，[欢迎围观](https://my.minecraft.kim/tech/744/open-source-licenses-in-depth/)
 
 **深入理解开源许可证（Open Source Licenses In Depth）**试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的**兼容性**。
 
